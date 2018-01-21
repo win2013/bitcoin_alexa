@@ -1,0 +1,39 @@
+BackwardIntent              Move Backward {elapsed_time} seconds
+BackwardIntent              Retroceda {elapsed_time} segundos
+BackwardIntent 				Backward  {elapsed_time} seconds
+BackwardIntent 				Backward  {elapsed_time} second
+BackwardIntent 				Move Backward  {elapsed_time} second
+ForwardIntent                Move forward {elapsed_time} seconds
+ForwardIntent                Adelante {elapsed_time} segundo
+ForwardIntent 				 Forward  {elapsed_time} seconds
+ForwardIntent 				 Forward  {elapsed_time} second
+ForwardIntent 				 Move forward  {elapsed_time} second
+FunIntent 				Gol de Honduras
+FunIntent 				Gol
+HowManyChromecastsIntent    how many chromecasts
+HowManyChromecastsIntent    chromecasts
+StopIntent 				Stop
+StopIntent 				Alto
+ThankyouIntent 			Thanks
+ThankyouIntent 			Gracias
+TurnLeftIntent 			To the Left {elapsed_time} seconds
+TurnLeftIntent 			Izquierda {elapsed_time} seconds
+TurnLeftIntent 			left {elapsed_time} seconds
+TurnRightIntent 			To the right {elapsed_time} seconds
+TurnRightIntent 			Dereacha {elapsed_time} seconds
+TurnRightIntent 			right {elapsed_time} seconds
+TurnRightIntent 			right {elapsed_time} second
+PriceIntent				What is the price of bitcion
+PriceIntent				bitcoin price in {currency}
+PriceIntent				price of bitcoin in {currency}
+ComissionIntent			What is the commision for bitcoin in {currency}
+ComissionIntent			Whas's the cost of a bitcoin transaction in {currency}
+ComissionSatoshiIntent		What is the commision in satoshis
+ComissionSatoshiIntent		What is the cost in satoshis
+BestTimeIntent          What is the best time to do this transaction
+BestTimeIntent          Suggest a time
+BestTimeIntent          Whend do I do this trade
+YesIntent sure
+YesIntent si
+YesIntent dale
+YesIntent cheque
