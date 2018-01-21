@@ -1,4 +1,4 @@
-# bitcoin Caster - Alexa Skiulls
+# bitcoin Caster - Alexa Skills
 Bitcoin Alexa - BitcoinCaster. A tool that helps access bitcoin information, including forecasting of transactions fees powered by a Chat-bot and Alexa Skills.  Created fuding the 36 hr Hackathon sponsored by BitStop @ Lab Miami in Wynwood. 
 
 ## BitcoinCaste
